@@ -1,0 +1,34 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+## Test / coverage
+[Tt]est[Rr]esult*/
+*.coverage
+*.coveragexml
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## Local runtime data (kept out of the repo: demo DB is recreated on first run)
+App_Data/clients.local.json

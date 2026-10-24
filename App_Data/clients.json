@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Иванов Сергей Петрович",
+    "Address": "г. Москва, ул. Тверская, д. 12",
+    "Coordinates": "55.765171;37.605148",
+    "OrderAmount": 2200,
+    "Latitude": 55.765171,
+    "Longitude": 37.605148
+  },
+  {
+    "Id": 2,
+    "FullName": "Петрова Анна Владимировна",
+    "Address": "г. Москва, ул. Арбат, д. 23",
+    "Coordinates": "55.750809;37.597723",
+    "OrderAmount": 24500,
+    "Latitude": 55.750809,
+    "Longitude": 37.597723
+  },
+  {
+    "Id": 3,
+    "FullName": "Смирнов Дмитрий Олегович",
+    "Address": "г. Москва, ул. Мясницкая, д. 28",
+    "Coordinates": "55.763331;37.632584",
+    "OrderAmount": 2000,
+    "Latitude": 55.763331,
+    "Longitude": 37.632584
+  },
+  {
+    "Id": 4,
+    "FullName": "Кузнецова Елена Игоревна",
+    "Address": "г. Москва, ул. Пятницкая, д. 15",
+    "Coordinates": "55.737157;37.625448",
+    "OrderAmount": 0,
+    "Latitude": 55.737157,
+    "Longitude": 37.625448
+  },
+  {
+    "Id": 5,
+    "FullName": "Волков Андрей Никитич",
+    "Address": "г. Москва, ул. Большая Садовая, д. 5/1",
+    "Coordinates": "55.765199;37.596395",
+    "OrderAmount": 1300,
+    "Latitude": 55.765199,
+    "Longitude": 37.596395
+  },
+  {
+    "Id": 6,
+    "FullName": "Морозова Ольга Сергеевна",
+    "Address": "г. Москва, ул. Тверская-Ямская 1-я, д. 11",
+    "Coordinates": "55.770404;37.600817",
+    "OrderAmount": 22900,
+    "Latitude": 55.770404,
+    "Longitude": 37.600817
+  },
+  {
+    "Id": 7,
+    "FullName": "Лебедев Михаил Александрович",
+    "Address": "г. Москва, ул. Кузнецкий Мост, д. 19",
+    "Coordinates": "55.760839;37.624059",
+    "OrderAmount": 9800,
+    "Latitude": 55.760839,
+    "Longitude": 37.624059
+  },
+  {
+    "Id": 8,
+    "FullName": "Зеленков Владислав Владимирович",
+    "Address": "г. Москва, ул. Старый Арбат, д. 36",
+    "Coordinates": "55.749492;37.587489",
+    "OrderAmount": 200,
+    "Latitude": 55.749492,
+    "Longitude": 37.587489
+  },
+  {
+    "Id": 9,
+    "FullName": "Долинин Дениска Барабарабере",
+    "Address": "2-я ямская улица 2",
+    "Coordinates": null,
+    "OrderAmount": 0,
+    "Latitude": 0,
+    "Longitude": 0
+  },
+  {
+    "Id": 10,
+    "FullName": "Иван Иванов",
+    "Address": "г. Москва, ул. Большая Лубянка, д. 13",
+    "Coordinates": "55.759011;37.626176",
+    "OrderAmount": 500,
+    "Latitude": 55.759011,
+    "Longitude": 37.626176
+  },
+  {
+    "Id": 11,
+    "FullName": "пп",
+    "Address": "детский сад 694",
+    "Coordinates": null,
+    "OrderAmount": 100,
+    "Latitude": 0,
+    "Longitude": 0
+  }
+]
